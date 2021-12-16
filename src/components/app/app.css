@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #178ca4;
+    color: white;
+    height: 100vh;
+    font-family: "Bakbak One", sans-serif;
+}
+
+.logo {
+    height: 4vh;
+}
+
+header {
+    background-color: #f9f7f0;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search {
+    background-color: transparent;
+    border: 2px solid #18b7be;
+    color: #18b7be;
+    border-radius: 50px;
+    font-family: inherit;
+    font-size: 1.2rem;
+    padding: 0.5rem 1.5rem;
+}
+
+.search:focus {
+    outline: none;
+}
