@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-movie-api/static/css/main.a4464723.css",
+    "main.js": "/simple-movie-api/static/js/main.472e7cea.js",
+    "static/media/notFound.jpg": "/simple-movie-api/static/media/notFound.b8dcf213adf525c645eb.jpg",
+    "static/media/logo.png": "/simple-movie-api/static/media/logo.1fd6c3b4360078e11b0d.png",
+    "index.html": "/simple-movie-api/index.html",
+    "main.a4464723.css.map": "/simple-movie-api/static/css/main.a4464723.css.map",
+    "main.472e7cea.js.map": "/simple-movie-api/static/js/main.472e7cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4464723.css",
+    "static/js/main.472e7cea.js"
+  ]
+}
